@@ -1,1 +1,3 @@
 # python-discordbot
+
+A basic Discord Bot coded in python, that can play song, translate docs etc...
